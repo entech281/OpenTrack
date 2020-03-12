@@ -13,6 +13,8 @@ In constrast with zipties, Raceway has a number of advantages:
 1. MUCH MUCH faster to re-do or add a wire
 1. allows using pre-purchased or pre-made standard cable lengths, because the slack can be neatly tucked away
 1. Safer-- no little sharp zip-tie ends to poke/scratch
+1. can be sized to match the job
+1. looks way nicer
 
 
 This model contains three parts:
