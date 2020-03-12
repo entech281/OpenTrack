@@ -1,4 +1,4 @@
-# OpenTrack
+# OpenTrack, by team 281
 Parametric Wire Management Raceway for FRC Robots
 
 We wanted to use professional raceway (Panduit) for our robot, because it allows for a very neat looking setup, while avoiding zip-ties.  We want to avoid zip ties for several reasons:
