@@ -28,7 +28,7 @@ The parts print flat, and are folded to make a lightweight, sturdy cable raceway
   * The width, height, and length
   * The size of the fingers and slots
 
-
+![OpenTrack](/OpenTrack.png)
 
 # Printing and Use Instructions
 
