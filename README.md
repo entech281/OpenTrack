@@ -27,7 +27,9 @@ The parts print flat, and are folded to make a lightweight, sturdy cable raceway
 
   * The width, height, and length
   * The size of the fingers and slots
-  
+
+
+
 # Printing and Use Instructions
 
 1. Configure your desired dimensions using Solidworks equations
